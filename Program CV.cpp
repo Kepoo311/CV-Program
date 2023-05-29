@@ -19,7 +19,7 @@ int main(int argc, char const *argv[])
     cout <<"Nilai Hexadecimal : " << hex << desimal << endl;
     cout <<"Nilai Octal : " << oct << desimal << endl;
 
-    cout<<"By M.Riandra.Rai.K";
+    cout<<"By KepoDev Ganss";
 
     getch();
 	return 0;
